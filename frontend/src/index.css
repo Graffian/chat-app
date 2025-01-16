@@ -1,0 +1,30 @@
+body {
+  background-color: #2d2d2d;
+}
+nav{
+  margin-left:90px;
+}
+li{
+  list-style-type: none;
+  color:white;
+}
+input{
+  padding:10px;
+  padding-left:40px;
+  padding-right:100px;
+  background-color: black;
+  border:none;
+  outline:none;
+  color:white;
+}
+button{
+  padding:10px;
+  background-color: green;
+  color:white;
+}
+.msgList{
+  list-style-type: square;
+}
+.messages{
+  list-style-type: square;
+}
